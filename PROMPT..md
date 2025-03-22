@@ -2,8 +2,8 @@
 
 ## INITIALIZATION SEQUENCE
 ```
-REPOSITORY_URL: [Your repository URLhttps://github.com/Talisman9/Writing-Advanced]
-PERSONAL_ACCESS_TOKEN: [Your PAT]
+REPOSITORY_URL: https://github.com/Talisman9/Writing-Advanced
+PERSONAL_ACCESS_TOKEN: 
 BRANCH: main
 ```
 
