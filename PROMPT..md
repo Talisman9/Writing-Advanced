@@ -8,23 +8,59 @@ BRANCH: main
 ```
 
 ## CORE PARAMETERS
-- **TITLE:** [Title]
-- **GENRE:** [Genre]
-- **WORD_COUNT:** [Word count range]
-- **SETTING:** [Setting]
-- **CENTRAL_LOCATION:** [Central location]
-- **LOCATION_TRANSFORMATION:** [Original purpose] → [Current state]
-- **THEMATIC_UNDERTONE:** [Thematic undertone]
-- **POV_CHARACTERS:** [Number]
-- **CONCEPTUAL_TRAITS:** [Conceptual traits]
-- **CHARACTER_ROLES:** [Character roles]
-- **CORE_ACTIVITY:** [Core activity]
-- **KEY_ELEMENT:** [Key element]
-- **ELEMENT_IMPORTANCE:** [Element importance]
-- **INFLUENTIAL_BACKSTORY:** [Influential backstory]
-- **AUTHORIAL_STYLE:** [Authorial style]
-- **PROSE_ELEMENTS:** [Specific prose elements]
-- **OUTPUT_FORMAT:** [File format]
+- **TITLE:**  The Veritas Codex (Series Title - "Veritas" meaning truth in Latin, and "Codex" suggesting an ancient manuscript or set of rules. Implies a search for hidden truths.)
+Example Individual Novel Titles:
+The Veritas Codex: The Cipher of Shadows
+The Veritas Codex: The Alchemist's Secret
+The Veritas Codex: The Lost Library of St. Cyprian
+- **GENRE:** Mystery / Cozy Mystery (with elements of academic mystery and a touch of historical mystery)
+- **WORD_COUNT:** 500,000 total, split across multiple novels (e.g., 5-10 novels, ranging from 50,000 to 100,000 words each)
+- **SETTING:** The ancient, fictional university city of Veritas, nestled in a valley somewhere in continental Europe (think a blend of Oxford, Heidelberg, and Prague). The city is built on the site of an even older settlement, with layers of history beneath it.
+- **CENTRAL_LOCATION:** The restricted section of the University of Veritas' Grand Library, known as the "Silentium."
+- **LOCATION_TRANSFORMATION:** Ancient Celtic/Roman Holy Site (with a sacred spring or grove) →
+Medieval Monastery Scriptorium (where monks preserved and copied texts) →
+Early University Library (open stacks, accessible to scholars) →
+The Silentium (Restricted Section, housing dangerous, controversial, or magically-charged texts and artifacts). The restriction happened gradually, as certain texts were deemed too risky for general access.
+- **THEMATIC_UNDERTONE:** The weight of the past and how it shapes the present; the enduring power of secrets; the responsibility that comes with knowledge.
+- **POV_CHARACTERS:** 2 (Primary)
+Emily Robinson: A local history student at the University of Veritas. She's passionate, curious, and has an intuitive understanding of the city's hidden history. She's also got a bit of a rebellious streak and isn't afraid to bend the rules to uncover the truth.
+Detective Inspector Alistair Finch: A newly transferred detective to the Veritas police force. He's pragmatic, skeptical of anything supernatural or "unproven," and relies on logic and evidence. He's initially dismissive of Evelyn's theories but comes to respect her insights.
+- **CONCEPTUAL_TRAITS:** Hidden Passages and Secret Rooms: Within the university and the city itself.
+Coded Messages and Cryptograms: Found in old texts, on buildings, and within artifacts.
+Local Legends and Folklore: Seemingly fantastical tales that often hold a kernel of truth.
+Academic Rivalries and Secret Societies: Both historical and contemporary, influencing events.
+Series-Wide Arc: The gradual uncovering of the true history of Veritas, including its pre-university origins, the reason for the Silentium's existence, and a recurring threat related to a powerful, ancient secret.
+Evolving Artifact: Begins as a specific, tangible artifact (e.g., a silver astrolabe) that appears in the first few books. Later, the "artifact" becomes more abstract – a peculiar symbol or recurring motif that appears in different forms throughout the city and its history. This signifies a deeper, more pervasive mystery.
+- **CHARACTER_ROLES:** Emily Robinson: The Amateur Sleuth / history student
+DI Alistair Finch: The Skeptical Detective / Outsider
+Professor Alistair Thorne: Emily's mentor, a kindly but eccentric professor of ancient history who knows more than he lets on (Ally).
+Dr. Noah Hawkings: The Head Librarian of the Silentium, a stern and protective guardian of its secrets (Ambiguous – could be an ally or a red herring).
+Recurring Antagonist (Vague): A shadowy figure or organization connected to the university's secret history, working to keep the truth buried (may be a different individual in each book, but all connected to the same overarching conspiracy).
+Recurring Red Herrings: A cast of local characters, such as a rival historian, a secretive bookseller, a member of a hidden society, etc.
+- **CORE_ACTIVITY:** A blend of:
+Investigating cold cases related to the university or the city that are suddenly reopened by new evidence (often discovered in the Silentium).
+Deciphering cryptic clues found in historical documents, artifacts, or the city's architecture.
+Uncovering the truth behind local legends and folklore, which often have a basis in historical events.
+- **KEY_ELEMENT:** Initial Books: A silver astrolabe, intricately engraved, that appears to have been owned by a key figure in Veritas's past. Each book reveals a new function or hidden compartment of the astrolabe.
+Later Books: The "Veritas Symbol" – a recurring symbol (e.g., a stylized serpent eating its tail, a knotwork design, a combination of specific geometric shapes) that appears in various forms: on the astrolabe, in watermarks on ancient texts, carved into hidden corners of buildings, woven into tapestries, etc. The symbol's meaning and significance evolve over time.
+- **ELEMENT_IMPORTANCE:** Astrolabe: Acts as a key to unlocking initial mysteries and provides clues to the Veritas Symbol.
+Veritas Symbol: Represents the deeper, overarching secret of Veritas and its connection to a powerful, potentially dangerous, ancient knowledge.
+- **INFLUENTIAL_BACKSTORY:** Founding: The city was originally a Celtic/Roman sacred site, known for its mystical properties (perhaps a convergence of ley lines or a source of natural energy).
+Monastery: A monastic order established a presence, recognizing the site's power and building their scriptorium over it. They began collecting and safeguarding knowledge, both sacred and profane.
+University: The university grew out of the monastery, becoming a center of learning but also a place of secrets and hidden agendas. Rivalries between academic factions and secret societies arose, each vying for control of the ancient knowledge.
+Shipwrecks/Piracy: Even though inland, Veritas is connected to a major river system. In the past, this river was used for trade, but also by pirates and smugglers. Shipwrecks (or scuttled ships) in the river or nearby lakes could hold clues related to the city's secrets.
+Forgotten Indigenous Population: The original inhabitants of the area before the Celts/Romans had their own understanding of the site's power, and their traditions and beliefs have been subtly woven into the city's folklore.
+- **AUTHORIAL_STYLE:** A blend of:
+Character-focused: Emphasizing the evolving relationship between Evelyn and Finch, their personal growth, and their interactions with the community.
+Atmospheric and descriptive: Creating a sense of place, highlighting the ancient beauty and hidden mysteries of Veritas, with a touch of suspense and unease.
+Intelligent and Witty Dialogue: Reflecting the academic setting and the characters' personalities.
+- **PROSE_ELEMENTS:** Foreshadowing: Subtle hints and clues planted throughout the narrative.
+Red Herrings: Misleading characters and clues to keep the reader guessing.
+Cliffhangers: Suspenseful endings to chapters and books.
+Symbolism: The Veritas Symbol, the Silentium, the river, academic rituals, etc., all carry deeper meanings.
+Detailed Descriptions: Of the university, the city, the artifacts, and the historical documents, bringing the setting to life.
+Interwoven Subplots: Related to the characters' personal lives and the ongoing rivalries within the university.
+- **OUTPUT_FORMAT:** .md
 
 ## EXECUTION PROTOCOL
 
