@@ -2,15 +2,15 @@
 
 ## INITIALIZATION SEQUENCE
 ```
-REPOSITORY_URL: https://github.com/Talisman9/Writing-Advanced
-PERSONAL_ACCESS_TOKEN: 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
+REPOSITORY_URL: [Your repository URL]
+PERSONAL_ACCESS_TOKEN: [Your PAT]
 BRANCH: main
 ```
 
 ## CORE PARAMETERS
 - **TITLE:** [Title]
-- **GENRE:** Historical Mystery, Contemporary Romance
-- **WORD_COUNT:** 90.000
+- **GENRE:** [Genre]
+- **WORD_COUNT:** [Word count range]
 - **SETTING:** [Setting]
 - **CENTRAL_LOCATION:** [Central location]
 - **LOCATION_TRANSFORMATION:** [Original purpose] → [Current state]
@@ -24,7 +24,7 @@ BRANCH: main
 - **INFLUENTIAL_BACKSTORY:** [Influential backstory]
 - **AUTHORIAL_STYLE:** [Authorial style]
 - **PROSE_ELEMENTS:** [Specific prose elements]
-- **OUTPUT_FORMAT:** .md files compiled into final manuscript
+- **OUTPUT_FORMAT:** [File format]
 
 ## EXECUTION PROTOCOL
 
@@ -176,7 +176,7 @@ BRANCH: main
      # Task Breakdown for {TITLE}
      
      ## Planning Phase
-     - [X] World-building
+     - [x] World-building
      - [ ] Character development
      - [ ] Plot construction
      
@@ -243,8 +243,8 @@ BRANCH: main
      # Task Breakdown for {TITLE}
      
      ## Planning Phase
-     - [X] World-building
-     - [X] Character development
+     - [x] World-building
+     - [x] Character development
      - [ ] Plot construction
      
      $(grep -A 20 "## Development Phase" <<< "$CURRENT_TASKS" | tail -n +1)
