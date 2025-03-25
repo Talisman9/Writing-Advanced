@@ -32,3 +32,22 @@ The University of Veritas continued to evolve through the modern era, maintainin
 During World War II, the most valuable and dangerous items from the Silentium were temporarily relocated to hidden chambers beneath the university to protect them from bombing. This led to the discovery of even older chambers dating back to the Roman period, which were subsequently incorporated into the Silentium's architecture.
 
 In the present day, the Silentium remains a closely guarded section of the university library, its existence acknowledged but its contents largely unknown to the general student population. Access is strictly controlled by the current Head Librarian, Dr. Noah Hawkings, who serves as the public face of the much larger and more secretive Custodian organization.
+
+## Contents of the Silentium
+
+### Physical Layout
+The Silentium occupies the western wing of the Grand Library, spanning three above-ground floors and two subterranean levels. The entrance is marked by a pair of heavy oak doors bearing the Veritas Symbol in silver inlay. Beyond these doors lies an antechamber where visitors must register and surrender all writing implements, recording devices, and bags. The main reading room features a central desk staffed by assistant librarians and surrounded by reference materials that provide context for the restricted texts but contain no sensitive information themselves.
+
+The collection is housed in a series of interconnected chambers arranged in concentric circles, with security and restriction levels increasing as one moves inward. The innermost chamber, known as the "Core Collection," is accessible only to the Head Librarian and senior Custodians. The subterranean levels contain climate-controlled vaults for particularly fragile or dangerous items, as well as the recently discovered Roman chambers that house the oldest artifacts.
+
+### Classification System
+The Silentium employs a unique classification system that categorizes items based on both subject matter and potential risk:
+
+1. **Veritas Historica (VH)**: Historical texts related to the university, the city, and the site itself
+2. **Scientia Arcana (SA)**: Scientific and alchemical works containing potentially dangerous knowledge
+3. **Philosophia Prohibita (PP)**: Philosophical and theological texts challenging established worldviews
+4. **Linguistica Obscura (LO)**: Texts in unknown or partially deciphered languages
+5. **Artifacta Mysteriosa (AM)**: Physical artifacts with unusual properties
+6. **Codex Ultimatus (CU)**: The most restricted category, containing texts and artifacts directly related to the nature of reality and the convergence
+
+Each category is further divided into five security levels, with Level 1 being the least restricted and Level 5 requiring special authorization from the Head Librarian.
