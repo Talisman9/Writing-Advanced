@@ -264,3 +264,29 @@ The true nature of the Codex itself is revealed as the full convergence occurs, 
 8. Sacrifice of a major character to seal the breach
 9. New equilibrium established with controlled access to knowledge
 10. Emily and Alistair's new role as guardians of the balance
+
+## Interconnections Between Novels
+
+### Progressive Revelation
+- Each novel reveals more about the history and purpose of Veritas
+- Information from earlier books is recontextualized by later discoveries
+- The significance of seemingly minor details in early books becomes clear in later ones
+- The full picture only emerges when all novels are considered together
+
+### Character Development Continuity
+- Emily and Alistair's relationship progresses logically across the series
+- Supporting characters weave in and out of the narrative with consistent development
+- Antagonists evolve from seemingly simple villains to complex figures with understandable motives
+- The entire cast forms a web of relationships that grows more intricate with each book
+
+### Thematic Progression
+- Early books focus on the tension between intuition and evidence
+- Middle books explore the ethics of restricted knowledge
+- Later books address the responsibility that comes with understanding
+- The series concludes with themes of balance and stewardship
+
+### Mystery Complexity
+- Early mysteries are more self-contained with clearer resolutions
+- Middle books feature mysteries with wider implications and partial resolutions
+- Final books present mysteries that can only be solved by understanding the entire pattern
+- The overarching mystery of Veritas itself is only fully resolved in the final book
