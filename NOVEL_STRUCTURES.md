@@ -172,3 +172,26 @@ Strange phenomena begin occurring throughout Veritas, coinciding with astronomic
 8. Professional consequences for Alistair when he breaks protocol
 9. Race to disrupt the Seekers' ritual during the conjunction
 10. Prophecy revealed about "the final alignment" threatening Veritas
+
+### Book 6: The Linguist's Cypher
+
+#### Premise
+Ancient texts in multiple languages begin disappearing from collections worldwide, with connections to Veritas. Emily and Alistair discover the Veritas Symbol serves as a key to a universal language that can access deeper realities. Their investigation forces them to work separately for the first time—Emily following the academic trail while Alistair works through international police channels. They uncover divisions within both the Custodians and Seekers, leading to the revelation of a coming convergence.
+
+#### Structure Specifics
+- **Opening**: Report of coordinated thefts from libraries around the world
+- **Investigation**: Parallel investigations by Emily and Alistair in different locations
+- **Complication**: Discovery that moderate factions in both groups are working together
+- **Resolution**: Recovery of the texts and understanding of the coming convergence
+
+#### Key Scenes
+1. Video conference between international libraries reporting similar thefts
+2. Painful separation as Alistair is sent to coordinate with Interpol
+3. Emily's discovery of linguistic patterns connecting the stolen texts
+4. Alistair's encounter with Custodian agents in another country
+5. Emily deciphering the universal language with Professor Thorne's help
+6. Coordinated communication between Emily and Alistair despite distance
+7. Emily's infiltration of a Seeker meeting on campus
+8. Alistair's discovery of Genevieve's true role as a double agent
+9. Emotional reunion as they combine their discoveries
+10. Translation of the prophecy about the convergence of worlds
