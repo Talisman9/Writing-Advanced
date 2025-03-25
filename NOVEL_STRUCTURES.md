@@ -97,3 +97,32 @@ A series of thefts targeting alchemical texts and artifacts throughout the unive
 - **Alistair**: Struggling with jealousy while becoming more open to historical connections
 - **Maximilian**: Introduced as a charming rival with his own agenda
 - **Phoebe**: Established as Emily's supportive friend and confidante
+
+### Book 3: The Lost Library of St. Cyprian
+
+#### Premise
+Renovation work in the Silentium uncovers a sealed chamber containing a hidden collection of texts from St. Cyprian's Monastery, which preceded the university. Emily and Alistair investigate the collection's significance, discovering that the astrolabe can reveal hidden text on seemingly blank manuscript pages. Their growing attraction faces obstacles when Alistair's ex, Genevieve Dubois, arrives to authenticate artifacts from the collection, while the Custodians make their first direct move to acquire the astrolabe.
+
+#### Structure Specifics
+- **Opening**: Discovery of the sealed chamber during renovation work
+- **Investigation**: Research into St. Cyprian's Monastery and its connection to the university
+- **Complication**: Genevieve's arrival and the revelation of Alistair's past
+- **Resolution**: Understanding the original purpose of the Silentium before the astrolabe is stolen
+
+#### Key Scenes
+1. Breaking through the wall to discover the hidden chamber
+2. First examination of the St. Cyprian collection
+3. Using the astrolabe to reveal hidden text on blank pages
+4. Introduction of Genevieve and her history with Alistair
+5. Emily's discovery of references to the Custodians in monastery records
+6. Attempt to steal items from the collection thwarted by Alistair
+7. Emily and Alistair trapped in the sealed chamber when the security system activates
+8. First kiss between Emily and Alistair during their escape
+9. Confrontation with a senior Custodian who reveals partial truths
+10. Theft of the astrolabe during a university gala
+
+#### Character Arcs
+- **Emily**: Connecting historical dots while dealing with romantic complications
+- **Alistair**: Confronting his past while acknowledging his feelings for Emily
+- **Genevieve**: Introduced as sophisticated rival with hidden connections
+- **Dr. Hawkings**: Revealed to have more knowledge about the Silentium's purpose
