@@ -149,3 +149,26 @@ A series of modern murders mimicking historical deaths leads Emily and Alistair 
 8. Alistair racing to find Emily using the map connections
 9. Disruption of the ritual at the central power point
 10. Recovery of information about the astrolabe's location
+
+### Book 5: The Astronomer's Equation
+
+#### Premise
+Strange phenomena begin occurring throughout Veritas, coinciding with astronomical events. Emily and Alistair investigate the connection between these occurrences and historical observations recorded by university astronomers. They discover the Veritas Symbol contains mathematical formulas related to cosmic alignments, and both the Custodians and Seekers are preparing for a rare astronomical conjunction. Their relationship faces its greatest test as they commit to each other despite personal and professional risks.
+
+#### Structure Specifics
+- **Opening**: Inexplicable phenomenon during a meteor shower
+- **Investigation**: Research into historical astronomical records and similar events
+- **Complication**: Discovery that both Custodians and Seekers are preparing for the conjunction
+- **Resolution**: Prevention of the Seekers from using the alignment to access forbidden knowledge
+
+#### Key Scenes
+1. Witnesses reporting strange lights and time distortions during meteor shower
+2. Research in the university observatory archives
+3. Discovery of the mathematical formulas hidden in the Veritas Symbol
+4. Emily and Alistair's decision to move in together
+5. Confrontation with Genevieve about her connection to the Seekers
+6. Breaking into the old observatory tower during a lockdown
+7. Using the recovered astrolabe to decode the astronomical equations
+8. Professional consequences for Alistair when he breaks protocol
+9. Race to disrupt the Seekers' ritual during the conjunction
+10. Prophecy revealed about "the final alignment" threatening Veritas
