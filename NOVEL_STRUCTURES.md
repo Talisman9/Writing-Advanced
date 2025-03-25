@@ -218,3 +218,26 @@ Key members of both the Custodians and Seekers are being systematically eliminat
 8. Alistair's crisis of faith in institutional solutions
 9. Reconciliation as they find a middle path together
 10. First manifestations of the convergence affecting Veritas
+
+### Book 8: The Guardian's Oath
+
+#### Premise
+The original purpose and powers of the Silentium are fully revealed as the building convergence begins affecting reality in Veritas. Emily and Alistair must understand the pre-Celtic origins of the sacred site while deciding their future as the crisis deepens. They discover how to navigate the convergence safely, but realize a final confrontation with extremists from both factions is inevitable.
+
+#### Structure Specifics
+- **Opening**: Reality distortions appearing throughout Veritas
+- **Investigation**: Research into the pre-Celtic origins of the sacred site
+- **Complication**: Personal decisions about the future complicated by the crisis
+- **Resolution**: Discovery of the method to navigate the convergence safely
+
+#### Key Scenes
+1. Witnessing impossible phenomena as realities begin to overlap
+2. Archaeological excavation beneath the Silentium revealing ancient structures
+3. Emily's offer of a prestigious position that would take her away from Veritas
+4. Alistair's opportunity to return to London with promotion
+5. Discovery of the original Guardian's Oath and its purpose
+6. Emily and Alistair's decision to commit to Veritas and each other
+7. Learning the ritual to stabilize the convergence
+8. Betrayal by a trusted ally working with extremists
+9. Preparation for the final confrontation
+10. Emily and Alistair taking the Guardian's Oath together
