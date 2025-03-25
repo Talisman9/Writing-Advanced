@@ -126,3 +126,26 @@ Renovation work in the Silentium uncovers a sealed chamber containing a hidden c
 - **Alistair**: Confronting his past while acknowledging his feelings for Emily
 - **Genevieve**: Introduced as sophisticated rival with hidden connections
 - **Dr. Hawkings**: Revealed to have more knowledge about the Silentium's purpose
+
+### Book 4: The Cartographer's Riddle
+
+#### Premise
+A series of modern murders mimicking historical deaths leads Emily and Alistair to investigate a pattern where each body is positioned to form part of a map. Without the astrolabe, they must rely on Emily's knowledge of Veritas's geography and Alistair's detective skills. They discover the Veritas Symbol appears in ancient maps of the city, revealing power points that align with both the historical and modern deaths. Meanwhile, their relationship deepens despite interference from Maximilian and Genevieve.
+
+#### Structure Specifics
+- **Opening**: Discovery of a murder victim positioned like a historical death
+- **Investigation**: Connecting the positions of victims to an ancient map of Veritas
+- **Complication**: Realization that the murders are creating a ritual pattern
+- **Resolution**: Prevention of a ceremony at the convergence of power points
+
+#### Key Scenes
+1. Discovery of the first victim positioned to match a 16th-century death
+2. Emily recognizing the pattern from historical records
+3. Finding an ancient map in the university archives
+4. Emily and Alistair's first official date, interrupted by case developments
+5. Discovery of the Veritas Symbol hidden in the city's layout
+6. Confrontation with Maximilian about his family's connection to the Custodians
+7. Emily kidnapped by the killer to serve as the final point in the pattern
+8. Alistair racing to find Emily using the map connections
+9. Disruption of the ritual at the central power point
+10. Recovery of information about the astrolabe's location
