@@ -11,7 +11,7 @@
 - [x] Create first novel outline with chapter breakdown
 - [x] Develop the silver astrolabe artifact and its significance
 - [x] Design the "Veritas Symbol" and its various manifestations
-- [ ] Create sample chapters showcasing narrative style
+- [x] Create sample chapters showcasing narrative style
 - [ ] Develop relationship progression outline for Emily and Alistair
 ## Refinement Phase
 - [ ] Review and enhance world-building consistency

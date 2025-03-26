@@ -8,6 +8,7 @@
 - Academic rivalries and secret societies influence events and guard ancient knowledge
 - Old Market Square serves as a central hub for city life and contains hidden elements connected to city mysteries
 - Veritas Symbol fully designed as a complex ouroboros with seven-pointed star and alchemical elements, appearing in various manifestations throughout the city
+- Hidden tunnels beneath the Grand Library connect to ancient chambers predating the university's founding
 
 ## Character State
 - Emily Robinson: Local history student with intuitive understanding of city's hidden history and rebellious streak
@@ -23,6 +24,7 @@
 - Series-wide arc focuses on uncovering the true history of Veritas and reason for Silentium's existence
 - Silver astrolabe fully developed as a key artifact with astronomical functions and mystical significance
 - First novel outline completed with 19-chapter structure focusing on the Astronomer's Secret
+- Sample chapters created showcasing narrative style and character voices for chapters 1, 5, and 14
 - Veritas Symbol developed with multiple layers of meaning, from university emblem to key for accessing hidden knowledge
 - Symbol appears in architectural elements, documents, and artifacts throughout Veritas
 - Symbol's role established across all nine books, with middle trilogy (books 4-6) focusing specifically on its significance
