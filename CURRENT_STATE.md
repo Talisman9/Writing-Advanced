@@ -39,3 +39,10 @@
 - Recurring threat related to powerful ancient secret connects all individual mysteries
 - Supernatural elements systematically defined with consistent rules and limitations
 - Faction structures established for Custodians (three-tier hierarchy) and Seekers (cell-based organization)
+- Mystery elements strengthened with comprehensive clue placement system across all nine books
+- Fair-play detection principles established to ensure readers have access to all necessary information
+- Detailed clue maps created for Book 1 with chapter-by-chapter distribution
+- Red herring system developed with plausible alternative explanations that misdirect without cheating readers
+- Mystery progression framework established to increase complexity while building on previous revelations
+- Advanced mystery techniques implemented including layered information revelation and narrative misdirection
+- Character-specific investigative methods defined for Emily (historical pattern recognition) and Alistair (evidence-based detection)

@@ -18,9 +18,9 @@
 - Created sample chapters showcasing narrative style
 - Developed relationship progression outline for Emily and Alistair
 - Reviewed and enhanced world-building consistency
+- Strengthened mystery elements and clue placement
 ## In-Progress Tasks
 ## Upcoming Tasks
-- Strengthen mystery elements and clue placement
 - Balance romance subplot with mystery main plot
 - Ensure historical elements are well-integrated
 - Refine character voices and relationships
