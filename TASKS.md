@@ -7,9 +7,9 @@
 - [x] Research historical elements (Celtic/Roman sites, monasteries, early universities)
 - [x] Develop the Silentium's history, contents, and significance
 ## Development Phase
-- [ ] Write detailed setting descriptions for key locations
-- [ ] Create first novel outline with chapter breakdown
-- [ ] Develop the silver astrolabe artifact and its significance
+- [x] Write detailed setting descriptions for key locations
+- [x] Create first novel outline with chapter breakdown
+- [x] Develop the silver astrolabe artifact and its significance
 - [ ] Design the "Veritas Symbol" and its various manifestations
 - [ ] Create sample chapters showcasing narrative style
 - [ ] Develop relationship progression outline for Emily and Alistair

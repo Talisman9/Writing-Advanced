@@ -6,6 +6,7 @@
 - City contains hidden passages, secret rooms, and encoded messages throughout architecture
 - Local legends and folklore contain kernels of truth about the city's past
 - Academic rivalries and secret societies influence events and guard ancient knowledge
+- Old Market Square serves as a central hub for city life and contains hidden elements connected to city mysteries
 
 ## Character State
 - Emily Robinson: Local history student with intuitive understanding of city's hidden history and rebellious streak
@@ -19,7 +20,8 @@
 
 ## Plot State
 - Series-wide arc focuses on uncovering the true history of Veritas and reason for Silentium's existence
-- Silver astrolabe serves as key element in early novels, revealing new functions in each book
+- Silver astrolabe fully developed as a key artifact with astronomical functions and mystical significance
+- First novel outline completed with 19-chapter structure focusing on the Astronomer's Secret
 - "Veritas Symbol" appears in various forms throughout city (watermarks, carvings, weavings)
 - Cold cases related to university history are reopened by new evidence discovered in Silentium
 - Romantic subplot develops from professional distance to eventual love between Emily and Alistair

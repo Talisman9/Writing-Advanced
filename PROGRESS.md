@@ -11,11 +11,11 @@
 - Outlined series-wide story arc and mysteries
 - Planned individual novel structures and interconnections
 - Developed the Silentium's history, contents, and significance
+- Wrote detailed setting description for the Old Market Square
+- Created first novel outline with chapter breakdown
+- Developed the silver astrolabe artifact and its significance
 ## In-Progress Tasks
-- Write detailed setting descriptions for key locations
-- Create first novel outline with chapter breakdown
-- Develop the silver astrolabe artifact and its significance
-## Upcoming Tasks
 - Design the "Veritas Symbol" and its various manifestations
+## Upcoming Tasks
 - Create sample chapters showcasing narrative style
 - Develop relationship progression outline for Emily and Alistair
