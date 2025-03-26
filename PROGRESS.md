@@ -21,6 +21,8 @@
 - Strengthened mystery elements and clue placement
 ## In-Progress Tasks
 ## Upcoming Tasks
+- Research mystery novel structure and cozy mystery conventions in more detail
+- Research contemporary romance elements and tropes for subplot development
 - Balance romance subplot with mystery main plot
 - Ensure historical elements are well-integrated
 - Refine character voices and relationships
