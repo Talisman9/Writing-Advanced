@@ -17,5 +17,11 @@
 - Designed the "Veritas Symbol" and its various manifestations
 - Created sample chapters showcasing narrative style
 - Developed relationship progression outline for Emily and Alistair
+- Reviewed and enhanced world-building consistency
 ## In-Progress Tasks
 ## Upcoming Tasks
+- Strengthen mystery elements and clue placement
+- Balance romance subplot with mystery main plot
+- Ensure historical elements are well-integrated
+- Refine character voices and relationships
+- Develop supporting character arcs
