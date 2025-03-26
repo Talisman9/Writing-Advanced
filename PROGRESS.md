@@ -16,6 +16,6 @@
 - Developed the silver astrolabe artifact and its significance
 - Designed the "Veritas Symbol" and its various manifestations
 - Created sample chapters showcasing narrative style
+- Developed relationship progression outline for Emily and Alistair
 ## In-Progress Tasks
-- Develop relationship progression outline for Emily and Alistair
 ## Upcoming Tasks

@@ -12,7 +12,7 @@
 - [x] Develop the silver astrolabe artifact and its significance
 - [x] Design the "Veritas Symbol" and its various manifestations
 - [x] Create sample chapters showcasing narrative style
-- [ ] Develop relationship progression outline for Emily and Alistair
+- [x] Develop relationship progression outline for Emily and Alistair
 ## Refinement Phase
 - [ ] Review and enhance world-building consistency
 - [ ] Strengthen mystery elements and clue placement

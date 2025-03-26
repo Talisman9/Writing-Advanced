@@ -19,6 +19,7 @@
 - Genevieve Dubois: Alistair's past love interest with hidden agenda who reappears to cause complications
 - Phoebe O'Connell: Emily's loyal, supportive friend who offers advice with sarcastic humor
 - David Wagner: Alistair's serious, dedicated colleague who serves as a sounding board
+- Emily and Alistair's relationship progression fully mapped across all nine books, from professional distance to committed partnership
 
 ## Plot State
 - Series-wide arc focuses on uncovering the true history of Veritas and reason for Silentium's existence
@@ -29,5 +30,6 @@
 - Symbol appears in architectural elements, documents, and artifacts throughout Veritas
 - Symbol's role established across all nine books, with middle trilogy (books 4-6) focusing specifically on its significance
 - Cold cases related to university history are reopened by new evidence discovered in Silentium
-- Romantic subplot develops from professional distance to eventual love between Emily and Alistair
+- Romantic subplot fully developed with four distinct phases across nine books, with key relationship milestones identified for each novel
+- Relationship progression designed to complement mystery elements rather than overshadow them
 - Recurring threat related to powerful ancient secret connects all individual mysteries
