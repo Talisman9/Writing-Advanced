@@ -15,9 +15,9 @@
 - [x] Develop relationship progression outline for Emily and Alistair
 ## Refinement Phase
 - [x] Review and enhance world-building consistency
-- [x] Strengthen mystery elements and clue placement
 - [ ] Research mystery novel structure and cozy mystery conventions in more detail
 - [ ] Research contemporary romance elements and tropes for subplot development
+- [x] Strengthen mystery elements and clue placement
 - [ ] Balance romance subplot with mystery main plot
 - [ ] Ensure historical elements are well-integrated
 - [ ] Refine character voices and relationships
