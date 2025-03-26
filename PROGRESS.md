@@ -14,8 +14,8 @@
 - Wrote detailed setting description for the Old Market Square
 - Created first novel outline with chapter breakdown
 - Developed the silver astrolabe artifact and its significance
+- Designed the "Veritas Symbol" and its various manifestations
 ## In-Progress Tasks
-- Design the "Veritas Symbol" and its various manifestations
-## Upcoming Tasks
 - Create sample chapters showcasing narrative style
+## Upcoming Tasks
 - Develop relationship progression outline for Emily and Alistair

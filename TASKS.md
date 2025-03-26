@@ -10,7 +10,7 @@
 - [x] Write detailed setting descriptions for key locations
 - [x] Create first novel outline with chapter breakdown
 - [x] Develop the silver astrolabe artifact and its significance
-- [ ] Design the "Veritas Symbol" and its various manifestations
+- [x] Design the "Veritas Symbol" and its various manifestations
 - [ ] Create sample chapters showcasing narrative style
 - [ ] Develop relationship progression outline for Emily and Alistair
 ## Refinement Phase
