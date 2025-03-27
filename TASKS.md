@@ -28,7 +28,7 @@
  - [x] Research contemporary romance elements and tropes for subplot development
  - [x] Balance romance subplot with mystery main plot
  - [x] Ensure historical elements are well-integrated
- - [ ] Refine character voices and relationships
+ - [x] Refine character voices and relationships
  - [ ] Develop supporting character arcs
  ## Finalization Phase
  - [ ] Complete first novel manuscript
