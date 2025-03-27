@@ -27,7 +27,7 @@
  - [x] Strengthen mystery elements and clue placement
  - [x] Research contemporary romance elements and tropes for subplot development
  - [x] Balance romance subplot with mystery main plot
- - [ ] Ensure historical elements are well-integrated
+ - [x] Ensure historical elements are well-integrated
  - [ ] Refine character voices and relationships
  - [ ] Develop supporting character arcs
  ## Finalization Phase
