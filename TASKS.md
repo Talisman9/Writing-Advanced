@@ -26,7 +26,7 @@
  - [x] Research mystery novel structure and cozy mystery conventions in more detail
  - [x] Strengthen mystery elements and clue placement
  - [x] Research contemporary romance elements and tropes for subplot development
- - [ ] Balance romance subplot with mystery main plot
+ - [x] Balance romance subplot with mystery main plot
  - [ ] Ensure historical elements are well-integrated
  - [ ] Refine character voices and relationships
  - [ ] Develop supporting character arcs
