@@ -3,8 +3,8 @@
 ## Project Setup
 - [x] Initialize GitHub repository
 - [x] Create directory structure
-- [ ] Configure GitHub issues
-- [ ] Set up branch protection rules
+- [x] Configure GitHub issues
+- [x] Set up branch protection rules
 
 # The Veritas Codex - Development Tasks
  ## Planning Phase
@@ -23,7 +23,7 @@
  - [x] Develop relationship progression outline for Emily and Alistair
  ## Refinement Phase
  - [x] Review and enhance world-building consistency
- - [ ] Research mystery novel structure and cozy mystery conventions in more detail
+ - [x] Research mystery novel structure and cozy mystery conventions in more detail
  - [ ] Strengthen mystery elements and clue placement
  - [ ] Research contemporary romance elements and tropes for subplot development
  - [ ] Balance romance subplot with mystery main plot
