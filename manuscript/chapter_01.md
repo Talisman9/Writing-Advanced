@@ -16,6 +16,8 @@ The morning light filtered through the stained-glass windows of the University o
 
 She returned to the text, a 15th-century account of astronomical observations made at the university. The author, a monk named Brother Thomas, had documented unusual celestial events with surprising precision for his era. Emily's dissertation on medieval astronomical practices at the University of Veritas had led her down increasingly specific research paths, and Brother Thomas's observations had become central to her argument about the university's overlooked contributions to early Renaissance astronomy.
 
+The university's founding in 1386 had coincided with a period of intellectual ferment across Europe, but Veritas had remained somewhat overshadowed by its more famous contemporaries like Oxford and Prague in historical accounts. Emily was determined to demonstrate that the astronomical work done here had been equally significant, if less well-documented.
+
 "Excuse me, Miss Robinson?" 
 
 Emily looked up to find Mrs. Winters, the head research librarian, standing beside her table with an apologetic smile. In her sixties with silver hair always perfectly coiffed, Mrs. Winters had been Emily's ally since her undergraduate days.
@@ -96,6 +98,8 @@ But that was Professor Thorne—always teaching through suggestion and guided di
 
 She checked the time. The conservation lab would be active now, and she had no afternoon commitments. Decision made, she turned toward the university museum, her mind already forming questions about this mysterious astrolabe.
 
+As she walked across the campus quad, Emily reflected on the pattern of restricted access she was encountering. First the Heidelberg correspondence moved to the Silentium, now Professor Thorne offering alternative resources rather than direct access. There seemed to be an invisible boundary around certain knowledge at Veritas—a careful curation of who could learn what. The historian in her recognized such gatekeeping as a centuries-old academic tradition, but the researcher in her chafed against it. Knowledge, she believed, should illuminate rather than remain hidden. Yet she couldn't help wondering if some information carried responsibilities that not everyone was prepared to bear.
+
 ## Scene 3: Exhibition Preparation
 
 The University Museum occupied what had once been the university's chapel, a Gothic revival building with soaring ceilings and magnificent windows. The main exhibition halls displayed the university's impressive collections, but Emily headed directly for the back staircase that led to the conservation and preparation areas.
@@ -126,7 +130,7 @@ The face of the astrolabe contained the expected elements—the mater with its e
 
 "That's what makes it so interesting," Dr. Wright said. "The basic structure follows standard medieval European design, but these additional elements..." She pointed to a series of concentric circles with unusual markings. "These don't correspond to any known astronomical measurement system."
 
-"And these symbols around the edge," Emily noted, spotting a sequence of markings that looked almost like writing but matched no alphabet she knew. "Have you been able to identify them?"
+"And these symbols around the edge," Emily noted, spotting a sequence of markings that looked almost like writing but matched no alphabet she knew. The symbols appeared to be arranged in a specific pattern—eight groupings of intricate glyphs, each containing what looked like a stylized star or celestial body surrounded by angular characters. Something about their arrangement suggested not just decoration but a deliberate message or formula. "Have you been able to identify them?"
 
 "Not yet. We've consulted with linguists and historians of science. The current theory is that they might be an elaborate owner's mark or perhaps alchemical symbols." Dr. Wright adjusted her glasses. "The provenance is somewhat mysterious. The astrolabe was part of a private collection donated to the university in the 1890s, but its history before that is undocumented."
 

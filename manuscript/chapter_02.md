@@ -16,9 +16,11 @@ Detective Inspector Alistair Finch ducked under the police tape stretched across
 
 "Time of death?" Alistair asked, scanning the grand entrance hall. Despite the late hour, a small crowd of students and faculty had gathered outside, held back by uniformed officers. News traveled fast in university towns.
 
-"ME's preliminary estimate is between four and six hours ago. She's still with the body."
+"ME's preliminary estimate is between four and six hours ago, so approximately between 12:30 and 2:30 PM. She's still with the body."
 
 Alistair nodded, taking in the information with practiced efficiency. Three weeks into his transfer to Veritas Police, and this was his first major case—a homicide in the prestigious university that gave the town its name and reputation. He could already anticipate the political complications.
+
+As they moved through the main reading room, Alistair noted the vaulted ceilings and stained-glass windows now dark with the evening sky behind them. The building itself was impressive—Gothic revival architecture with modern additions carefully integrated to preserve the historical aesthetic. In another context, he might have appreciated the craftsmanship, but he'd learned long ago to separate architectural admiration from crime scene assessment.
 
 "University administration?" he asked, following Morgan through the main reading room toward the back of the library.
 
@@ -56,7 +58,7 @@ Alistair stood and methodically examined the scene, noting the position of furni
 
 "The body was arranged post-mortem," he stated rather than asked.
 
-Dr. Patel nodded. "Almost certainly. Lividity doesn't match the current position. And there's this." She gently turned the victim's right hand to reveal a symbol drawn on the palm in what appeared to be black ink. The mark resembled a stylized star within a circle, with small notations around the perimeter.
+Dr. Patel nodded. "Almost certainly. Lividity doesn't match the current position. And there's this." She gently turned the victim's right hand to reveal a symbol drawn on the palm in what appeared to be black ink. The mark resembled a stylized star within a circle, with small angular notations around the perimeter. Alistair recognized the pattern as similar to astronomical notations, though more complex and arranged in a deliberate sequence. Eight distinct groupings of symbols radiated from the central star, each containing what appeared to be a celestial body surrounded by unfamiliar characters.
 
 "Any idea what that is?" Alistair asked.
 
