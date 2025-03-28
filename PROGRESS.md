@@ -26,7 +26,7 @@
 - Refined character voices and relationships
 - Developed supporting character arcs
 ## In-Progress Tasks
-- Writing chapter outlines (completed through Chapter 17)
+- Writing chapter outlines (completed through Chapter 24)
 - Developing first novel manuscript based on manuscript development plan
 ## Upcoming Tasks
 - Complete remaining chapter outlines
