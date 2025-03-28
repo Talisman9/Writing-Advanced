@@ -20,7 +20,7 @@ The university's founding in 1386 had coincided with a period of intellectual fe
 
 "Excuse me, Miss Robinson?" 
 
-Emily looked up to find Mrs. Winters, the head research librarian, standing beside her table with an apologetic smile. In her sixties with silver hair always perfectly coiffed, Mrs. Winters had been Emily's ally since her undergraduate days.
+Emily looked up to find Mrs. Winters, the head research librarian, standing beside her table with an apologetic smile. In her sixties with silver hair always perfectly coiffed, Mrs. Winters had been Emily's ally since her undergraduate days. The older woman had a remarkable memory for obscure catalog references and an uncanny ability to locate misplaced volumes that had frustrated other librarians for days.
 
 "I'm afraid I need to inform you that the manuscript you requested from the special collections—the Heidelberg correspondence—cannot be made available."
 
@@ -100,6 +100,34 @@ She checked the time. The conservation lab would be active now, and she had no a
 
 As she walked across the campus quad, Emily reflected on the pattern of restricted access she was encountering. First the Heidelberg correspondence moved to the Silentium, now Professor Thorne offering alternative resources rather than direct access. There seemed to be an invisible boundary around certain knowledge at Veritas—a careful curation of who could learn what. The historian in her recognized such gatekeeping as a centuries-old academic tradition, but the researcher in her chafed against it. Knowledge, she believed, should illuminate rather than remain hidden. Yet she couldn't help wondering if some information carried responsibilities that not everyone was prepared to bear.
 
+The quad bustled with afternoon activity—students lounging on the grass enjoying the spring weather, professors hurrying between buildings with armfuls of papers, tour groups following guides who gestured enthusiastically at the historic architecture. As Emily passed the central fountain, she noticed posters being hung for the upcoming Founder's Week celebrations. The annual tradition commemorated the university's establishment in 1386 with historical reenactments, special lectures, and the ceremonial ringing of the bell tower carillon. This year marked a significant anniversary, and the preparations seemed more elaborate than usual.
+
+Emily's stomach growled, reminding her she'd worked through lunch. On impulse, she detoured toward The Scholar's Cup, a café tucked into the corner of the Humanities building. The small establishment had been a fixture of campus life for decades, known for its eclectic décor of antique academic paraphernalia—old typewriters, vintage scientific instruments, and framed degree certificates from centuries past. The menu continued the theme with sandwiches named after famous philosophers and coffee drinks inspired by literary movements.
+
+"The usual, Emily?" called Maggie, the silver-haired owner who seemed to remember every regular's order and academic department.
+
+"Please," Emily replied, settling at a small table by the window. "And maybe one of those almond croissants if you have any left."
+
+While waiting for her order—a "Cartesian Cappuccino" and sandwich—Emily noticed Dr. Eleanor Wright at a corner table, deep in conversation with a man Emily didn't recognize. Their heads were bent close together over what appeared to be photographs or documents, their discussion intense but hushed.
+
+Maggie arrived with Emily's coffee. "Fueling another research marathon?" she asked with the knowing smile of someone who had served generations of academics.
+
+"Something like that," Emily replied. "I'm heading to the museum conservation lab to look at an artifact."
+
+"Ah, the mysterious silver astrolabe?" Maggie winked. "Word travels fast around here. Half the faculty's talking about it."
+
+Emily raised her eyebrows. "Really? I didn't realize it was common knowledge."
+
+"This is Veritas, dear. Nothing stays secret for long in academic circles." Maggie lowered her voice. "Though I did hear the police were asking questions about it yesterday. Quite unusual."
+
+"Police?" Emily tried to keep her tone casual. "Did something happen?"
+
+"No idea. Just campus gossip." Maggie straightened as another customer entered. "Enjoy your coffee. That croissant will be right out."
+
+Emily sipped her cappuccino, her gaze drifting back to Dr. Wright's table. The mention of police involvement with the astrolabe was curious. In her experience, law enforcement rarely took interest in historical artifacts unless theft or fraud was involved. She'd had a few frustrating encounters with police during her undergraduate years when trying to report suspicious activities around archaeological sites—they'd been dismissive of what they called "academic concerns," treating her like an overenthusiastic student wasting their time.
+
+She finished her coffee quickly, declining the croissant in favor of getting to the museum sooner. The conversation with Maggie had added another layer of intrigue to the astrolabe, and Emily was eager to examine it before heading home to process everything she'd learned today.
+
 ## Scene 3: Exhibition Preparation
 
 The University Museum occupied what had once been the university's chapel, a Gothic revival building with soaring ceilings and magnificent windows. The main exhibition halls displayed the university's impressive collections, but Emily headed directly for the back staircase that led to the conservation and preparation areas.
@@ -112,7 +140,7 @@ The conversation paused as three people looked up from a large worktable. Dr. El
 
 "Emily Robinson," Dr. Wright said, recognition dawning. "It's been, what, two years since you worked here? You're with Professor Thorne now, correct?"
 
-"Yes, working on my dissertation on medieval astronomical practices at the university." Emily stepped into the room, trying not to appear too eager. "Professor Thorne mentioned you're preparing an exhibition on scientific instruments, including an astrolabe. I was hoping I might be able to see it, for my research."
+"Yes, working on my dissertation on medieval astronomical practices at the university." Emily stepped into the room, trying not to appear too eager. The conservation lab was familiar territory—she'd spent countless hours here as an undergraduate work-study student, cataloging artifacts and assisting with preservation tasks. The room smelled of archival materials and conservation chemicals, a scent she'd always found oddly comforting. "Professor Thorne mentioned you're preparing an exhibition on scientific instruments, including an astrolabe. I was hoping I might be able to see it, for my research."
 
 Dr. Wright studied her for a moment, then nodded. "As it happens, we're just discussing the display parameters for that very item." She gestured Emily closer. "Come have a look, though I must ask you not to touch anything."
 
@@ -134,7 +162,9 @@ The face of the astrolabe contained the expected elements—the mater with its e
 
 "Not yet. We've consulted with linguists and historians of science. The current theory is that they might be an elaborate owner's mark or perhaps alchemical symbols." Dr. Wright adjusted her glasses. "The provenance is somewhat mysterious. The astrolabe was part of a private collection donated to the university in the 1890s, but its history before that is undocumented."
 
-Emily felt a familiar tingle of excitement—the sensation she always experienced when encountering a historical puzzle. "What's the dating on it?"
+Emily felt a familiar tingle of excitement—the sensation she always experienced when encountering a historical puzzle. She mentally cataloged the symbols, comparing them to other medieval notation systems she'd studied. This was exactly the kind of methodical analysis she excelled at—finding patterns across disparate historical sources, connecting dots that others missed because they lacked the broader context of medieval astronomical practices.
+
+"What's the dating on it?"
 
 "That's another point of contention," Dr. Wright said with a small smile. "Based on the basic design and craftsmanship, it appears to be 15th century. However..." She hesitated.
 

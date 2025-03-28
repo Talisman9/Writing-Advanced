@@ -26,13 +26,15 @@ As they moved through the main reading room, Alistair noted the vaulted ceilings
 
 "The Provost has been notified. He's sending the Head of Security to liaise." Morgan's tone was neutral, but Alistair caught the slight tightening of her jaw. In their brief time working together, he'd learned that Morgan's expressions often communicated what her professional demeanor wouldn't allow her to say aloud. The university administration would be difficult.
 
+They passed a small group of students being interviewed by a uniformed officer. One young woman with glasses and a stack of books clutched to her chest appeared particularly distressed, her voice barely audible as she answered questions. Alistair made a mental note to review her statement later—witnesses who spoke quietly often noticed details others missed.
+
 They passed through another set of doors marked "Staff Only" and down a corridor lined with offices and workrooms. At the end, a final door bore a brass plaque reading "Restricted Archives." Two uniformed officers stood guard, nodding as Alistair and Morgan approached.
 
 "Scene's been secured, sir," the older of the two officers reported. "Only the ME and one forensic tech inside. We've got names of everyone who entered or exited the archives today."
 
 "Good work," Alistair said, pulling on nitrile gloves from his pocket. "Let's see what we've got."
 
-The restricted archives room was larger than Alistair had expected—a high-ceilinged chamber with rows of metal shelving units containing acid-free boxes, bound volumes, and document cases. Track lighting illuminated the space, supplemented now by the portable lights set up by the forensic team.
+The restricted archives room was larger than Alistair had expected—a high-ceilinged chamber with rows of metal shelving units containing acid-free boxes, bound volumes, and document cases. Track lighting illuminated the space, supplemented now by the portable lights set up by the forensic team. The contrast between the elegant scholarly setting and the violent intrusion of death created a jarring dissonance that Alistair had come to recognize as typical of murder scenes—the everyday suddenly transformed into something alien and wrong.
 
 The body lay in the center aisle between two rows of shelves, partially obscured from Alistair's view by the medical examiner who knelt beside it. Dr. Samira Patel looked up as they approached, her expression grim.
 
@@ -54,7 +56,7 @@ Alistair surveyed the surrounding area. Several books and document boxes lay on 
 
 "Contents inventoried but left in place," the forensic technician answered from where he was dusting a shelf for prints. "Laptop, notebook, pens, reading glasses case, and some academic papers."
 
-Alistair stood and methodically examined the scene, noting the position of furniture, the materials on the table, the arrangement of the body. Nothing appeared disturbed beyond the immediate area around the victim. No signs of a chaotic struggle.
+Alistair stood and methodically examined the scene, noting the position of furniture, the materials on the table, the arrangement of the body. Nothing appeared disturbed beyond the immediate area around the victim. No signs of a chaotic struggle. This level of order suggested either a very controlled killer or someone who had taken time to arrange the scene afterward—neither scenario was comforting.
 
 "The body was arranged post-mortem," he stated rather than asked.
 
@@ -68,6 +70,8 @@ Alistair committed the symbol to memory, then continued his survey of the scene.
 
 Morgan moved to the table and carefully examined the open materials without touching them. "Looks like historical documents related to astronomical instruments. There's a catalog of the university's collection and what appears to be research notes."
 
+Unlike most detectives he'd worked with in London who dismissed academic research as irrelevant to "real police work," Alistair had always found value in understanding the context of a crime. His own undergraduate degree in history—something he rarely mentioned to colleagues—had taught him that the past often held keys to present mysteries. He leaned closer to the documents, careful not to disturb anything, but trying to get a sense of what had occupied the professor's final hours.
+
 A movement at the door caught Alistair's attention. A tall, thin man in a perfectly pressed suit stood watching them, his expression a careful blank. Behind him hovered a younger man in a campus security uniform who looked distinctly uncomfortable.
 
 "DI Finch?" the security officer called tentatively. "This is Dr. Noah Hawkings, Head Archivist. He's responsible for the restricted archives."
@@ -79,6 +83,8 @@ Alistair straightened. "Dr. Hawkings. I'll need to ask you some questions about 
 "We'll take every precaution," Alistair assured him, though he noted the archivist's priorities with interest. "DS Chen, please continue documenting the scene. I'll speak with Dr. Hawkings outside."
 
 As he followed Hawkings back into the corridor, Alistair glanced once more at the body. The deliberate positioning, the symbol on the palm, the academic setting—this was no ordinary murder. And in his experience, killers who took time to arrange their victims and leave marks were sending a message.
+
+Later that night, Alistair unlocked the door to his sparsely furnished flat near the edge of town. The small one-bedroom apartment contained little more than a bed, a desk, and several unpacked boxes of books—his only real indulgence. He'd chosen Veritas for its reputation as a quiet university town, a deliberate step away from the high-pressure homicide division in London. So much for quiet.
 
 The question was: to whom?
 
